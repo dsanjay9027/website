@@ -57,7 +57,7 @@ nav .nav-icon {
 }
 
 .header-text {
-    flex-basis: 50%;
+    flex-basis: 60%;
 }
 .header-text h1{
     letter-spacing: 2px;
@@ -68,8 +68,9 @@ nav .nav-icon {
 }
 
 .header-text p {
-    margin: 20px 0 30px 0;
+    margin: 20px 0 40px 0;
     line-height: 23px;
+    font-size: 20px;
 }
 
 .header-img {
