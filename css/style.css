@@ -65,12 +65,14 @@ nav .nav-icon {
 .header-text h1 span {
     color: var(--primary-color);
     letter-spacing: 2px;
+    font-size: 50px;
 }
 
 .header-text p {
     margin: 20px 0 40px 0;
     line-height: 23px;
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: bold;
 }
 
 .header-img {
