@@ -64,7 +64,7 @@
     }
 
     .header-text h1 span {
-        font-size: 40px;
+        font-size: 45px;
     }
 
 
@@ -73,6 +73,7 @@
         display: block;
         margin: 0 auto;
         border: 0;
+        text-align: center;
     }
 
     .header-img {
